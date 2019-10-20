@@ -1526,6 +1526,12 @@ width: 40%;
        font-size: 18px;
    }
 
+   /* Last-blog */
+
+   .last-blogs{
+       margin-left: -170px;
+   }
+
 
    
 }
